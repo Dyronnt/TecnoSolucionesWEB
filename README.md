@@ -128,17 +128,38 @@ Tablas principales (`TecnoSoluciones_DB.sql`):
 ## 📸 Capturas de pantalla
 
 
-```
+Login:
+
 ![Login](Assets/Capturas/login.png)
+
+Dashboard (Admin):
+
 ![Dashboard (Admin)](Assets/Capturas/dashboard.png)
+
+Gestión de Clientes:
+
 ![Gestión de Clientes](Assets/Capturas/gestion_clientes.png)
+
+Registrar Clientes:
+
 ![Registrar Clientes](Assets/Capturas/registrar_cliente.png)
+
+Gestión de Proyectos:
+
 ![Gestión de Proyectos](Assets/Capturas/gestion_proyectos.png)
+
+Registrar Proyectos:
+
 ![Registrar Proyectos](Assets/Capturas/registrar_proyecto.png)
+
+Gestión de Usuarios:
+
 ![Gestión de Usuarios](Assets/Capturas/gestion_usuarios.png)
+
+Registrar Usuarios:
+
 ![Registrar Usuarios](Assets/Capturas/registrar_usuario.png)
 
-```
 
 ## 👤 Autor
 
